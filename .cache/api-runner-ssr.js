@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/norbert_korczyk/JS Tutorials/final-corona/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/norbert_korczyk/JS Tutorials/corona-test/my-coronavirus-map/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/norbert_korczyk/JS Tutorials/final-corona/node_modules/gatsby-plugin-react-leaflet/gatsby-ssr'),
+      plugin: require('C:/Users/norbert_korczyk/JS Tutorials/corona-test/my-coronavirus-map/node_modules/gatsby-plugin-react-leaflet/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
